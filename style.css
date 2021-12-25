@@ -1,0 +1,24 @@
+p {
+	color: red;
+	font-weight: bold;
+	font-size: 50px;
+	text-shadow: green 3px 2px 2px; 
+	border-color: green; 
+	text-align: center;
+}
+h1{
+font-family: arial;
+text-align: center;
+font-size: 50px;
+color: red
+}
+.image-center{
+	display: block;
+	margin: auto;
+	}
+h2{
+font-family: arial;
+font-size: 50px;
+text-align: center;
+color: blue;
+}
